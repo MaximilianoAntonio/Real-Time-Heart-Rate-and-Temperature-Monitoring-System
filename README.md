@@ -12,7 +12,6 @@ This repository contains a real-time heart rate and temperature monitoring syste
 - [Usage](#usage)
 - [Files](#files)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
