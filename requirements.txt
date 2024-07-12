@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pyqt5
+pyqtgraph
+mysql-connector-python
+scipy
+pandas
